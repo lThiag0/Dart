@@ -1,0 +1,1 @@
+// Atividade 01: Validação de categorias de produtos em um sistema de estoque.

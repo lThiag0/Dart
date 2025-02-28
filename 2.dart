@@ -1,0 +1,1 @@
+// Atividade 02: Validação de tipos de arquivos em um sistema de upload
