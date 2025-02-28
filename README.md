@@ -1,6 +1,6 @@
-Curso de ADS Uninassau Parnaiba Primeira turma
+Curso de ADS Uninassau Parnaiba, Primeira turma.
 
-menbro do grupo:
+Grupo formado por:
 
 - Thiago Araujo
 - Rian Santos
