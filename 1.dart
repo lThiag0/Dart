@@ -16,6 +16,7 @@ void main() {
     }
   }
 
+  // Chama a função
   validar();
 
 }
